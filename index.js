@@ -1,0 +1,1 @@
+alert(prompt("enter number")*3);
